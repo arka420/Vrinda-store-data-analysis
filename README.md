@@ -47,7 +47,3 @@ Vrinda Store analyzed 2022 sales data to understand customer behavior, product d
 
 ### 8. Conclusion
 Vrinda Store’s 2022 analysis highlights strong digital performance, regional growth potential, and a youthful customer base. Strategic alignment in marketing, inventory, and channel focus will drive success in 2023.
-
----
-
-Let me know if you'd like this formatted as a README or Markdown file!
